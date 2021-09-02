@@ -1,0 +1,9 @@
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0PV0xYQAAAADejNB2hKriT742HQgQaEJtTUVYMzBFREdFMDQxMQAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Thu, 02 Sep 2021 23:24:44 GMT
+Response Body
+{"message":"CP251 - El atributo “Notificado:Domicilio:Localidad“ debe contener una clave del catálogo de “catCFDI:c_Localidad“, donde la columna clave de “c_Estado“ debe ser igual a la clave registrada en el atributo estado si el atributo “Pais“ tiene el valor “MEX“.","messageDetail":null,"data":null,"status":"error"}

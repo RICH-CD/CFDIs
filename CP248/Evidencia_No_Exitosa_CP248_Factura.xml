@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/CartaPorte http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte.xsd"
+    xmlns:cartaporte="http://www.sat.gob.mx/CartaPorte" Version="3.3" Folio="110586" Fecha="2021-05-26T19:37:05" Sello="C3gZt85JuXekGM4icpqkXZrm8+muwSFZHNUAOBjOuvsk1apct0C4FdTC4eeYBVz9+EKGR4NqeOTKADVr8Sil3WP0AAy4PiculamYzniaqm7E7Ngx+tbFuvq61KLfevwKqnDgCLtgiOCypNynNRUyEI9Obl+C/O7qAZmcPZ8CcSgj2GRRR25mQa5LiCxrKt7ezDmLhI+nB7bgeFrP+FbknD4jMuqqrlFKxN0eIDfMhRLZVpXs19h1SelHSydFe+90nXihzxjH1qucvXNazGB1WSGGFyiTNR5pSQf4XnjeFy5Wz5SnftD8elCzK1vdy4SpNDJ7tvHDisMf3eCiALhI1Q==" NoCertificado="30001000000400002444" Certificado="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" SubTotal="0" Moneda="XXX" Total="0" TipoDeComprobante="T" LugarExpedicion="50071"
+    xmlns:cfdi="http://www.sat.gob.mx/cfd/3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="URE180429TM6" Nombre="Transportes SA DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="EKU9003173C9" Nombre="receptor, S.A. DE C.V." UsoCFDI="P01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78101802" NoIdentificacion="01" Cantidad="1.00" ClaveUnidad="E48" Unidad="SERVICIO" Descripcion="FLETE" ValorUnitario="0.00" Importe="0.00">
+      <cfdi:InformacionAduanera NumeroPedimento="10  47  3807  8003832" />
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Complemento>
+    <cartaporte:CartaPorte Version="1.0" TranspInternac="No">
+      <cartaporte:Ubicaciones>
+        <cartaporte:Ubicacion TipoEstacion="01">
+          <cartaporte:Origen NumEstacion="PM001" NavegacionTrafico="Altura" NombreEstacion="testnombre" NombreRemitente="Testename" RFCRemitente="URE180429TM6" FechaHoraSalida="2021-05-14T20:45:59" />
+          <cartaporte:Domicilio Calle="JESUS VALDES SANCHEZ" Localidad="23" NumeroExterior="728" Colonia="0347" Municipio="004" Estado="COA" Pais="MEX" CodigoPostal="25350" />
+        </cartaporte:Ubicacion>
+        <cartaporte:Ubicacion TipoEstacion="01" >
+          <cartaporte:Destino NavegacionTrafico="Altura" NumEstacion="PM002" NombreEstacion="La Misión" RFCDestinatario="EKU9003173C9" FechaHoraProgLlegada="2021-05-14T20:46:59" />
+          <cartaporte:Domicilio Calle="calle" CodigoPostal="25350" Colonia="0347" Localidad="23" Municipio="004" Estado="COA" NumeroExterior="211" Pais="MEX" Referencia="casa blanca" />
+        </cartaporte:Ubicacion>
+      </cartaporte:Ubicaciones>
+      <cartaporte:Mercancias NumTotalMercancias="1" PesoNetoTotal="1">
+        <cartaporte:Mercancia BienesTransp="12164501" Descripcion="COSAS DE LA VIDA" Cantidad="1" ClaveUnidad="XNG" PesoEnKg="1.000" ValorMercancia="1.001" Moneda="MXN" >
+          <cartaporte:DetalleMercancia UnidadPeso="XME" PesoBruto="1" PesoNeto="1" PesoTara="1" NumPiezas="1"/>
+        </cartaporte:Mercancia>
+        <cartaporte:TransporteMaritimo AnioEmbarcacion="2021" Calado="10" Eslora="10" LineaNaviera="lineanavera" Manga="10" Matricula="12345AB" NacionalidadEmbarc="MEX" NombreAgenteNaviero="nombreAgente" NombreAseg="nombreAseg" NombreEmbarc="nombreEnbc" NumAutorizacionNaviero="SCT418/003/2020" NumCertITC="numcert" NumConocEmbarc="numconceembarc" NumPermisoSCT="numpermisosct" NumPolizaSeguro="numpolisa" NumViaje="numviaje" NumeroOMI="IMO1234567" PermSCT="TPAF01" TipoCarga="CGS" TipoEmbarcacion="B02" UnidadesDeArqBruto="10">
+          <cartaporte:Contenedor MatriculaContenedor="1234567890A" NumPrecinto="numprecinto" TipoContenedor="CM001"/>
+        </cartaporte:TransporteMaritimo>
+      </cartaporte:Mercancias>
+      <cartaporte:FiguraTransporte CveTransporte="02">
+        <cartaporte:Notificado NombreNotificado="pedro"  NumRegIdTribNotificado="VAAM130719H61" ResidenciaFiscalNotificado="XCC">
+          <cartaporte:Domicilio Calle="JESUS VALDES SANCHEZ" CodigoPostal="25350" Colonia="6969"  Estado="COA" Localidad="23" Municipio="004" NumeroExterior="728" Pais="MEX"/>
+        </cartaporte:Notificado>
+      </cartaporte:FiguraTransporte>
+    </cartaporte:CartaPorte>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,9 @@
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0alkxYQAAAADTd9tvn4WQQrJ1DwA4eeOOTUVYMzBFREdFMDQxOQAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Thu, 02 Sep 2021 23:08:26 GMT
+Response Body
+{"message":"CP232 - Existe información en el atributo “Arrendatario:RFCArrendatario“ o la clave del país registrada en el atributo “Arrendatario:ResidenciaFiscalArrendatario“ no corresponde con el valor registrado en el atributo “Arrendatario:NumRegIdTribArrendatario“.","messageDetail":null,"data":null,"status":"error"}

@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0O1AxYQAAAACD/g+pVs+iRp5sz7i7QWxPTEFYRURHRTEyMDcAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Thu, 02 Sep 2021 22:29:14 GMT
+Content-Length: 6269
+
+{"message":"CP126 - Este atributo no debe registrarse siempre que el atributo “TranspInternac“ contenga el valor “Sí“ y el valor del atributo “Ubicacion:Domicilio:Pais“ contenga el valor “MEX“.","messageDetail":null,"data":null,"status":"error"}

@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0Lk4xYQAAAAAZhU9PsG3SR7546pgKtEaZTEFYRURHRTEyMDcAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Thu, 02 Sep 2021 22:20:29 GMT
+Content-Length: 6269
+
+{"message":"CP113 - El valor registrado en “TipoDeComprobante“ es diferente de “I“ o “T“.","messageDetail":null,"data":null,"status":"error"}

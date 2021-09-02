@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0EFAxYQAAAAA38+GHsxHOR7tju1HGW3lkTEFYRURHRTEyMDcAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Thu, 02 Sep 2021 22:28:32 GMT
+Content-Length: 6201
+
+{"message":"CP125 - La clave registrada en el atributo “TipoEstacion“ es diferente a las contenidas en el catálogo “c_TipoEstacion“ o se registro el nodo “Mercancias:AutotransporteFederal“.","messageDetail":null,"data":null,"status":"error"}

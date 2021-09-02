@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0UE8xYQAAAAB1ND4w0PLFTKzezR60LZepTEFYRURHRTEyMDcAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Thu, 02 Sep 2021 22:25:20 GMT
+Content-Length: 6357
+
+{"message":"CP120 - El valor registrado no coincide con la suma de los atributos “DistanciaRecorrida“.","messageDetail":null,"data":null,"status":"error"}

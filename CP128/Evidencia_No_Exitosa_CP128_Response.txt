@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0pFAxYQAAAACRVHVMNax4QrLAuwTol4qrTEFYRURHRTEyMDcAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Thu, 02 Sep 2021 22:31:00 GMT
+Content-Length: 5980
+
+{"message":"CP128 - Se debe registrar información en el atributo “DistanciaRecorrida“ o el nodo de “Ubicacion:Origen“  y “Ubicacion:Destino“, no corresponden al mismo domicilio.","messageDetail":null,"data":null,"status":"error"}

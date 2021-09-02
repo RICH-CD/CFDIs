@@ -1,0 +1,9 @@
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0VVwxYQAAAADkWtCTcLbcTY0bHPm7oMNpTUVYMzBFREdFMDQxNQAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Thu, 02 Sep 2021 23:20:53 GMT
+Response Body
+{"message":"CP248 - Los atributos “Notificado:ResidenciaFiscalNotificado“ y “Notificado:NumRegIdTribNotificado” tienen una clave diferente a las establecidas en el catálogo “catCFDI:c_Pais“ para su validación.","messageDetail":null,"data":null,"status":"error"}

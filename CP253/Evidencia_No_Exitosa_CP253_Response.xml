@@ -1,0 +1,9 @@
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0d10xYQAAAAANx3jg/hUATpns8bVAPoN0TUVYMzBFREdFMDQxMQAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Thu, 02 Sep 2021 23:25:43 GMT
+Response Body
+{"message":"CP253 - El atributo “Notificado:Domicilio:Estado“ no existe o no contiene un valor  o no corresponde con una clave del “catCFDI:c_Estado“.\t","messageDetail":null,"data":null,"status":"error"}

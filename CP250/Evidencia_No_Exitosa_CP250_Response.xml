@@ -1,0 +1,9 @@
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0H10xYQAAAACJTR+UnJplT5Qe+027eTXRTUVYMzBFREdFMDQxMQAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Thu, 02 Sep 2021 23:24:15 GMT
+Response Body
+{"message":"CP250 - La clave del atributo “Notificado:Domicilio:Localidad“ no corresponde a la clave del país registrado.","messageDetail":null,"data":null,"status":"error"}

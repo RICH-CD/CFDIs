@@ -1,0 +1,9 @@
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0LkkxYQAAAAD4EyNaJcj3RLWIkZ6e2nfwTUVYMzBFREdFMDQxMAAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Thu, 02 Sep 2021 21:59:10 GMT
+Response Body
+{"message":"CP202 - El valor registrado en el atributo “ToneladasNetasCarro“ no corresponde a la suma de los valores registrados en el atributo “PesoNetoMercancia“. ","messageDetail":"Valor resportado: 11 Valor calculado: 10","data":null,"status":"error"}

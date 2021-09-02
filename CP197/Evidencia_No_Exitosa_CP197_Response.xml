@@ -1,0 +1,9 @@
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0REgxYQAAAADgTCD7uEPbRqELPTY3JamTTUVYMzBFREdFMDQxMAAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Thu, 02 Sep 2021 21:55:16 GMT
+Response Body
+{"message":"CP197 - Los atributos “TransporteAereo:RFCEmbarcador“ y “TransporteAereo:NumRegIdTribEmbarc“ están vacíos, o ya existe el atributo “RFCEmbarcador“.","messageDetail":null,"data":null,"status":"error"}

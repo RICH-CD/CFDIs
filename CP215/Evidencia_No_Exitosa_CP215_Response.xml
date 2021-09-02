@@ -1,0 +1,9 @@
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0i08xYQAAAAA9m/r6K2/1SpakLqjPFutQTUVYMzBFREdFMDQxMwAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Thu, 02 Sep 2021 22:26:19 GMT
+Response Body
+{"message":"CP215 - El atributo “Operador:Domicilio:Pais“ tiene un valor no permitido.","messageDetail":"The 'ResidenciaFiscalOperador' attribute is invalid - The value 'XXT' is invalid according to its datatype 'http://www.sat.gob.mx/sitio_internet/cfd/catalogos:c_Pais' - The Enumeration constraint failed.","data":null,"status":"error"}

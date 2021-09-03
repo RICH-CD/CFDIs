@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0UFoxYQAAAACHq3B8WJy5Q5XXtfmoX0wNTEFYRURHRTEyMjAAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Thu, 02 Sep 2021 23:12:16 GMT
+Content-Length: 250
+ 
+{"message":"CP157 - El atributo “Domicilio:Colonia“ debe contener una clave del catálogo de “catCFDI:c_Colonia“, donde la columna “c_CodigoPostal“ debe ser igual a la clave registrada en el atributo “CodigoPostal“.","messageDetail":null,"data":null,"status":"error"}

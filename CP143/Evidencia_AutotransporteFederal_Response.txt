@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 04FUxYQAAAAAmrLUS+5Q/QY4t2R47KPk3TEFYRURHRTEyMTEAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Thu, 02 Sep 2021 22:53:20 GMT
+Content-Length: 250
+ 
+{"message":"CP143 - El tipo de comprobante no es de tipo “T“ o el RFC del destinatario no se encuentra en la lista de RFC inscritos no cancelados del SAT l_RFC","messageDetail":null,"data":null,"status":"error"}

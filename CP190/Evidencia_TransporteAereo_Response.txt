@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 01mIxYQAAAAB8T2BK2l0jRKen0B1V6ZTiTEFYRURHRTEyMDYAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Thu, 02 Sep 2021 23:48:38 GMT
+Content-Length: 244
+ 
+{"message":"CP190 - El valor registrado no coincide con un valor registrado en los atributos “Ubicacion:IDDestino“.","messageDetail":"CantidadTransporta ValorEsperado: El valor DE123455 no coincide con algún valor de CantidadTransporta:IDDestino ValorReportado: ","data":null,"status":"error"}

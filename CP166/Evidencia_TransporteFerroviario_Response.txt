@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Content-Type: application/json
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0e10xYQAAAACfCfFz9xl0S6y3ZInsVcu8TEFYRURHRTEyMjEAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Thu, 02 Sep 2021 23:25:47 GMT
+Content-Length: 250
+ 
+{"message":"CP166 - La suma del peso bruto total de los atributos TransporteFerroviario:Carro:Contenedor:PesoContenedorVacio y TransporteFerroviario:Carro:Contenedor:PesoNetoMercancia, no corresponde. ","messageDetail":null,"data":null,"status":"error"}

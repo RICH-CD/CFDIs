@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0AG4xYQAAAABE5z0rS2ZpTJW4b8Ko06CYTEFYRURHRTEyMDYAMDAxMjEwZTktZDVhNC00MjljLTg4OWUtZjIyNTlkNmRiYmZh
+Date: Fri, 03 Sep 2021 00:36:16 GMT
+Content-Length: 6660
+
+{"message":"CP228 - El atributo “Propietario:Domicilio:Pais“ tiene un valor no permitido.","messageDetail":null,"type":0}

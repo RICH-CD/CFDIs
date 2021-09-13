@@ -1,0 +1,11 @@
+﻿HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0RXs/YQAAAAA3sMBW2pimTbAA6ANK82k1TUVYMzBFREdFMDQwNwAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Mon, 13 Sep 2021 16:24:37 GMT
+Content-Type: application/json
+Content-Length: 174
+
+{"message":"CP133 - El atributo “Origen:NumRegIdTrib“, esta vacío o ya existe el atributo “Origen:RFCRemitente“. ","messageDetail":null,"data":null,"status":"error"}

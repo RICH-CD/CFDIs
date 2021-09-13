@@ -1,0 +1,11 @@
+﻿HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0jXs/YQAAAAD3T3ac9RcaR5y0GEpD7cJrTUVYMzBFREdFMDQxOQAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Mon, 13 Sep 2021 16:25:49 GMT
+Content-Type: application/json
+Content-Length: 305
+
+{"message":"CP221 - El atributo “Propietario:NumRegIdTribPropietario“ no cumple con el patrón publicado en la columna “Formato de Registro de Identidad Tributaria“ del país indicado en el atributo “Propietario:ResidenciaFiscalPropietario“.","messageDetail":null,"data":null,"status":"error"}

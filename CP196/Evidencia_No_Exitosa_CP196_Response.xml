@@ -1,9 +1,0 @@
-Transfer-Encoding: chunked
-Content-Type: application/json
-Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
-X-Powered-By: ASP.NET
-X-Cache: CONFIG_NOCACHE
-X-Azure-Ref: 05D8xYQAAAAB57VV1fIFsR7aZ6oYk2atUTUVYMzBFREdFMDQwOAAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
-Date: Thu, 02 Sep 2021 21:19:33 GMT
-Response Body
-{"message":"CP196 - El atributo  “TransporteAereo:ResidenciaFiscalTranspor“ tiene una clave diferente a las establecidas en el catálogo “catCFDI:c_Pais“.","messageDetail":null,"data":null,"status":"error"}

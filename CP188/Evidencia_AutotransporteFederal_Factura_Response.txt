@@ -1,0 +1,11 @@
+﻿HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0dXs/YQAAAABjQuibHhebRa48N9LXjPh2TUVYMzBFREdFMDQxMwAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Mon, 13 Sep 2021 16:25:26 GMT
+Content-Type: application/json
+Content-Length: 197
+
+{"message":"CP188 - Se tiene más de un registro del nodo “Ubicacion:Destino“, por lo que se debe registrar el nodo “CantidadTransporta“.","messageDetail":null,"data":null,"status":"error"}

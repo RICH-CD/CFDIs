@@ -1,9 +1,0 @@
-Transfer-Encoding: chunked
-Content-Type: application/json
-Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
-X-Powered-By: ASP.NET
-X-Cache: CONFIG_NOCACHE
-X-Azure-Ref: 07U8xYQAAAAA16ZDBHVjSRIN9ChA/IiNQTUVYMzBFREdFMDQxMwAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
-Date: Thu, 02 Sep 2021 22:27:56 GMT
-Response Body
-{"message":"CP217 - La información del propietario debe ser distinta a la del emisor del CFDI, o no debe existir este nodo.","messageDetail":null,"data":null,"status":"error"}

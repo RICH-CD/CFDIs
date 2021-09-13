@@ -1,9 +1,0 @@
-Transfer-Encoding: chunked
-Content-Type: application/json
-Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
-X-Powered-By: ASP.NET
-X-Cache: CONFIG_NOCACHE
-X-Azure-Ref: 0kE4xYQAAAAB6/F9z0yeaS4XbOoQ1Sx/0TUVYMzBFREdFMDQxMwAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
-Date: Thu, 02 Sep 2021 22:22:08 GMT
-Response Body
-{"message":"CP209 - Los atributos “Operador:ResidenciaFiscalOperador“ y “Operador:NumRegIdTribOperador” tienen una clave diferente a las establecidas en el catálogo “catCFDI:c_Pais“ para su validación.","messageDetail":null,"data":null,"status":"error"}

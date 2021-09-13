@@ -1,0 +1,11 @@
+﻿HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0nXs/YQAAAADtdAqaH9XESIGgRF39ILN1TUVYMzBFREdFMDQxMwAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Mon, 13 Sep 2021 16:26:05 GMT
+Content-Type: application/json
+Content-Length: 301
+
+{"message":"CP247 - El atributo “Notificado:NumRegIdTribNotificado“ no cumple con el patrón publicado en la columna “Formato de registro de identidad tributaria“ del país indicado en el atributo “Notificado:ResidenciaFiscalNotificado“.","messageDetail":null,"data":null,"status":"error"}

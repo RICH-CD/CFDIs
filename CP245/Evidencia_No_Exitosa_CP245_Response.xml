@@ -1,9 +1,0 @@
-Transfer-Encoding: chunked
-Content-Type: application/json
-Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
-X-Powered-By: ASP.NET
-X-Cache: CONFIG_NOCACHE
-X-Azure-Ref: 0oVsxYQAAAACY/143+uA1RKyHRNV+t/fwTUVYMzBFREdFMDQxNQAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
-Date: Thu, 02 Sep 2021 23:17:52 GMT
-Response Body
-{"message":"CP245 - Existe información en el atributo “Notificado:RFCNotificado“ o la clave del país registrada en el atributo “ResidenciaFiscalNotificado“ no corresponde con el valor registrado en el atributo “NumRegIdTribNotificado“.","messageDetail":null,"data":null,"status":"error"}

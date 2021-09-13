@@ -1,0 +1,11 @@
+﻿HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0mns/YQAAAACtg5K3YvhSQa92kgGn0Cv9TUVYMzBFREdFMDQxOQAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Mon, 13 Sep 2021 16:26:02 GMT
+Content-Type: application/json
+Content-Length: 229
+
+{"message":"CP243 - Se debe registrar información en el atributo “Notificado:RFCNotificado“ o ya existe información en el atributo “Notificado:NumRegIDTribNotificado“.","messageDetail":null,"data":null,"status":"error"}

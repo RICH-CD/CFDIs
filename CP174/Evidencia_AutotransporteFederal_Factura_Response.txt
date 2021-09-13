@@ -1,0 +1,11 @@
+﻿HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0ZXs/YQAAAABhO79FBm57R5wCIfaiUOp+TUVYMzBFREdFMDQyMAAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Mon, 13 Sep 2021 16:25:10 GMT
+Content-Type: application/json
+Content-Length: 149
+
+{"message":"CP174 - No se debe registrar información en el atributo “Mercancia:Descripcion“.","messageDetail":null,"data":null,"status":"error"}

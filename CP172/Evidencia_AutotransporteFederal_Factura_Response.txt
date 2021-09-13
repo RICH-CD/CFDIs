@@ -1,0 +1,11 @@
+﻿HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0ZHs/YQAAAAC99ZzBO3G/R7uA6SWkoTK7TUVYMzBFREdFMDQxMgAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Mon, 13 Sep 2021 16:25:07 GMT
+Content-Type: application/json
+Content-Length: 330
+
+{"message":"CP172 - No se puede omitir cuando existe más de un tipo de mercancía o la clave registrada en el atributo  “ClaveProdServ“ a nivel CFDI no corresponde a la registrada en este atributo. ","messageDetail":"La claveprodserv a nivel concepto 78101802 no se encuentra a nivel Mercancias","data":null,"status":"error"}

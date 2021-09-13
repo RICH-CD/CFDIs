@@ -1,9 +1,0 @@
-Transfer-Encoding: chunked
-Content-Type: application/json
-Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
-X-Powered-By: ASP.NET
-X-Cache: CONFIG_NOCACHE
-X-Azure-Ref: 0XDsxYQAAAACfkqTib6wtRoUAX9tyOkPUTUVYMzBFREdFMDQwNwAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
-Date: Thu, 02 Sep 2021 21:00:12 GMT
-Response Body
-{"message":"CP193 - El atributo “TransporteAereo:RFCTransportista“, esta vacío o ya existe el atributo “RFCTransportista“ .","messageDetail":null,"data":null,"status":"error"}

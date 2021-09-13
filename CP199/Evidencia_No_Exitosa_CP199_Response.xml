@@ -1,9 +1,0 @@
-Transfer-Encoding: chunked
-Content-Type: application/json
-Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
-X-Powered-By: ASP.NET
-X-Cache: CONFIG_NOCACHE
-X-Azure-Ref: 0o0gxYQAAAAAA+cW2cV/bS6A6hsgNf1vaTUVYMzBFREdFMDQxMAAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
-Date: Thu, 02 Sep 2021 21:56:51 GMT
-Response Body
-{"message":"CP199 - El atributo “TransporteAereo:NumRegIdTribEmbarc“ no cumple con el patrón publicado en la columna “Formato de registro de identidad tributaria“ del país indicado en el atributo “TransporteAereo:ResidenciaFiscalEmbarc“.","messageDetail":null,"data":null,"status":"error"}

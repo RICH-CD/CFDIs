@@ -1,0 +1,11 @@
+﻿HTTP/1.1 400 Bad Request
+Transfer-Encoding: chunked
+Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
+X-Powered-By: ASP.NET
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0L3s/YQAAAADy1MZdqh3HSpufYtpIR1ReTUVYMzBFREdFMDQxMgAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
+Date: Mon, 13 Sep 2021 16:24:15 GMT
+Content-Type: application/json
+Content-Length: 146
+
+{"message":"CP103 - El valor registrado en el atributo “Moneda“ es diferente de “XXX“.","messageDetail":null,"data":null,"status":"error"}

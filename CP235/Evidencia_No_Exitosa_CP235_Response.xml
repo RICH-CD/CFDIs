@@ -1,9 +1,0 @@
-Transfer-Encoding: chunked
-Content-Type: application/json
-Request-Context: appId=cid-v1:11ca06fd-b367-4ec4-b4a7-562ea4622cc9
-X-Powered-By: ASP.NET
-X-Cache: CONFIG_NOCACHE
-X-Azure-Ref: 0zVkxYQAAAAA7XbvK2pn+Sq9rfXB8wLabTUVYMzBFREdFMDQxOQAwMDEyMTBlOS1kNWE0LTQyOWMtODg5ZS1mMjI1OWQ2ZGJiZmE=
-Date: Thu, 02 Sep 2021 23:10:05 GMT
-Response Body
-{"message":"CP235 - Los atributos “Arrendatario:ResidenciaFiscalArrendatario“ y “Arrendatario:NumRegIdTribArrendatario” tienen una clave diferente a las establecidas en el catálogo “catCFDI:c_Pais“ para su validación.","messageDetail":null,"data":null,"status":"error"}
